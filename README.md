@@ -35,7 +35,7 @@ N/A
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://lh3.googleusercontent.com/-0VwqPnWNteE/VubBqk05ffI/AAAAAAAABRw/yPCl-OY45SgTm8S83Fqu6-E26KfT-oM8QCCo/s800-Ic42/IV.gif" height="569" width="320" />
+<a href="https://picasaweb.google.com/lh/photo/Kl3zLJtpfygvNilKr3ZGLdMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-0VwqPnWNteE/VubBqk05ffI/AAAAAAAABRw/yPCl-OY45SgTm8S83Fqu6-E26KfT-oM8QCCo/s400-Ic42/IV.gif" height="400" width="225" /></a>
 
 GIF created with [AZ Screen Recorder] and [Zamzar](http://www.zamzar.com/).
 
