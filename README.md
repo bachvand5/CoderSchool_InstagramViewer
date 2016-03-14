@@ -21,11 +21,11 @@ The following **optional** features are implemented:
 * [x] Advanced: Add pull-to-refresh for popular stream with SwipeRefreshLayout (1 point)
 * [x] Advanced: Show latest comment for each photo (bonus: show last 2 comments) (1 point + 1 bonus)
 * [x] Advanced: Display each user profile image using a RoundedImageView (2 points)
-* [] Advanced: Display a nice default placeholder graphic for each image during loading (read more about Picasso) (1 point)
+* [ ] Advanced: Display a nice default placeholder graphic for each image during loading (read more about Picasso) (1 point)
 * [x] Advanced: Improve the user interface through styling and coloring (1 to 5 points depending on the difficulty of UI improvements)
-* [] Bonus: Allow user to view all comments for an image within a separate activity or dialog fragment (3 points)
-* [] Bonus: Allow video posts to be played in full-screen using the VideoView (2 points)
-* [] Bonus: Apply the popular Butterknife annotation library to reduce view boilerplate. (1 point)
+* [ ] Bonus: Allow user to view all comments for an image within a separate activity or dialog fragment (3 points)
+* [ ] Bonus: Allow video posts to be played in full-screen using the VideoView (2 points)
+* [ ] Bonus: Apply the popular Butterknife annotation library to reduce view boilerplate. (1 point)
 
 The following **additional** features are implemented:
 
