@@ -35,7 +35,7 @@ N/A
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://lh3.googleusercontent.com/-G6eoaL0e0uw/VsX4WXQLfSI/AAAAAAAABPw/Dev6xbzaQJU/s800-Ic42/v2.gif" height="518" width="314" title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="https://lh3.googleusercontent.com/-Dl3UpAhKH2k/VuaOTfL1grI/AAAAAAAABQc/htI-FJQsoUAu-Q6kgn0rt077yH5ziMluACCo/s144-Ic42/2016_03_14_15_39_21.mp4" height="144" width="81" title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
